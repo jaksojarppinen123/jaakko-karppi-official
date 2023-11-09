@@ -68,6 +68,7 @@ body{
 }
 
 .searchDivp {
+    object-position: center;
     text-align: center;
     color: var(--text-color);
     font-size: 30px;
@@ -83,8 +84,9 @@ body{
     border-radius: 1px;
     border-style: var(--border-style);
     border-color: var(--border-color);
-    margin: 0;
+    margin: 0 auto; /* Center horizontally */
 }
+
 
 .ohjeTxt{
     margin-top: 1rem;
