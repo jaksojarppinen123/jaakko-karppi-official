@@ -38,6 +38,7 @@ body{
     overflow: hidden;
     background-color: var(--header-footer-color);
     height: 70px;
+    position: center;
 }
 
 .header img {
